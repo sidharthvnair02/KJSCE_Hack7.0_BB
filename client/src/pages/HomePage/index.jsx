@@ -44,10 +44,14 @@ const HomePagePage = () => {
                 >
                   Contact Us
                 </Text>
-                <Button className="bg-indigo_A400 cursor-pointer font-normal font-roboto leading-[normal] min-w-[102px] not-italic py-3 rounded-[21px] shadow-bs text-[17px] text-center text-gray_50 tracking-[1.02px] w-auto">
+                <Button className="bg-indigo_A400 cursor-pointer font-normal font-roboto leading-[normal] min-w-[102px] not-italic py-3 rounded-[21px] shadow-bs text-[17px] text-center text-gray_50 tracking-[1.02px] w-auto"
+                 onClick={() => navigate("/loginpage")}
+                >
                   Login{" "}
                 </Button>
-                <Button className="bg-indigo_A400 cursor-pointer font-normal font-roboto leading-[normal] min-w-[102px] not-italic py-3 rounded-[21px] shadow-bs text-[17px] text-center text-gray_50 tracking-[1.02px] w-auto">
+                <Button className="bg-indigo_A400 cursor-pointer font-normal font-roboto leading-[normal] min-w-[102px] not-italic py-3 rounded-[21px] shadow-bs text-[17px] text-center text-gray_50 tracking-[1.02px] w-auto"
+                 onClick={() => navigate("/signuppage")}
+                >
                   Sign Up
                 </Button>
               </div>
