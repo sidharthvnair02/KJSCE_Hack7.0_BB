@@ -28,12 +28,9 @@ const placeSchema = new Schema({
         type: Number,
         required: true
     },
-    review:{
-        type: String
-    },
-    rating:{
-        type: Number
-
+    city:{
+        type:String,
+        required:true
     }
 
     
