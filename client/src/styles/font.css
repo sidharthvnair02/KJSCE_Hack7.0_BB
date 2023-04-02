@@ -1,0 +1,12 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoRomanRegular.ttf"); font-family : "Roboto"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/DMSansRegular.ttf"); font-family : "DM Sans"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/DMSansBold.ttf"); font-family : "DM Sans"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/OutfitSemiBold.ttf"); font-family : "Outfit"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OutfitRegular.ttf"); font-family : "Outfit"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterRegular.ttf"); font-family : "Inter"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PoppinsRegular.ttf"); font-family : "Poppins"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/PoppinsSemiBold.ttf"); font-family : "Poppins"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RubikRomanRegular.ttf"); font-family : "Rubik"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PlayfairDisplayRegular.ttf"); font-family : "Playfair Display"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/PoppinsExtraLight.ttf"); font-family : "Poppins"; font-weight : 300;  }
