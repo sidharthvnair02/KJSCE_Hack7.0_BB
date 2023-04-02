@@ -34,3 +34,12 @@ Problem Statement: The current state of the tourist places and hotel booking ind
 
 ![image](https://user-images.githubusercontent.com/95421790/229334641-dffa88e2-affe-41fe-9c77-2275366442f3.png)
 
+![image](https://user-images.githubusercontent.com/95421790/229334853-e68a7d98-fc8d-4dbe-9293-08cebe683d9b.png)
+
+![image](https://user-images.githubusercontent.com/95421790/229334867-40dec878-7218-456c-8b9f-14932e064009.png)
+
+![image](https://user-images.githubusercontent.com/95421790/229334887-27bbaa33-709b-43c8-9118-77f872ae322b.png)
+
+![image](https://user-images.githubusercontent.com/95421790/229334983-6b953c2b-07e5-43a2-8d99-eb1804252bf1.png)
+
+
